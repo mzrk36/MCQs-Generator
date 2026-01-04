@@ -1,0 +1,7 @@
+{
+  "name": "MathGenius MCQ Architect",
+  "description": "An expert AI system designed to analyze mathematics textbooks and generate high-quality, mathematically accurate Multiple Choice Questions across four structured phases.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
